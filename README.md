@@ -1,2 +1,9 @@
-# shortforge-ai
-AI Agent for generating viral YouTube Shorts ideas, hooks, scripts, thumbnail concepts, and SEO content.
+# ShortForge AI — Data Directory
+
+This directory is reserved for:
+
+- `cache/` — Cached API responses (future feature)
+- `exports/` — Exported content packages (future feature)
+- `templates/` — Custom content templates (future feature)
+
+Currently not used in v1.0.
